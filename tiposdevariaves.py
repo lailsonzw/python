@@ -4,4 +4,9 @@ a = int(1);#inteiro
 b = float(1.000);#real
 c = str("test");#string = char
 
-print(a,b,c)
+#Não precisamos definir o tipo da variavel, só precisamos atribuir o valor;
+
+a = "test";
+a = 1.000;
+
+print(a);
