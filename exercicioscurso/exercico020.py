@@ -1,0 +1,1 @@
+#META: criar um progama que sorteie uma lista sem repitir nomes;
