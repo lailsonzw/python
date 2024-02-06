@@ -21,6 +21,6 @@ elif operation == '+':
 elif operation == '*':
     resultado = num1 * num2
 elif operation == '/':
-    resultado = num1 / num2
+    resultado = num1 / num2 
 print(resultado)
 
