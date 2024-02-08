@@ -19,4 +19,5 @@ if som == 1:
     playsound.playsound('/home/lailson/Desktop/Github/repositories/python/projetos/alarme/dsp.mp3')
 elif som == 2:
     playsound.playsound('/home/lailson/Desktop/Github/repositories/python/projetos/alarme/dsp2.mp3')
-
+else:
+    print('Nao foi possivel encontrar o som.')
